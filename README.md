@@ -1,4 +1,4 @@
-# Hi, I'm Morgan Bouyakhlef 👋
+# Hi, I'm Morgan 👋
 
 Web Developer focused on building tools and interfaces that improve user experience.
 
