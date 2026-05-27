@@ -25,9 +25,9 @@ Currently exploring how interface design influences user behavior and perception
 
 ## 🚀 MY Last Projects
 
-### 🎮 CodeAmi.fr
+### 🎮 CodeAmi.net
 Your new gamer social network. You won't play alone anymore !
-👉 https://www.codeami.fr
+👉 https://www.codeami.net
 
 
 ### 🗺️ Search Google Maps Back
