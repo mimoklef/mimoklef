@@ -1,4 +1,4 @@
-# Hi, I'm Morgan 👋
+# Hi, I'm Moha 👋
 
 Web Developer focused on building tools and interfaces that improve user experience.
 
@@ -60,14 +60,14 @@ Focus on usability, attention, and user control.
 
 ## 🌐 Links
 
-- 🌍 Website: https://www.morganbkf.com  
-- 📄 Resume: https://www.morganbkf.com/files/Morgan_Bouyakhlef.pdf  
-- 💼 LinkedIn: https://www.linkedin.com/in/morganbkf  
-- 🧪 CodePen: https://codepen.io/morganbkf  
+- 🌍 Website: https://www.mohabkf.com  
+- 📄 Resume: https://www.mohabkf.com/files/Moha_Bouyakhlef.pdf  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohabkf  
+- 🧪 CodePen: https://codepen.io/mohabkf  
 
 ## 📫 Contact
 
-- Email: morganbkf@gmail.com  
+- Email: bouyakhlefmohamed@gmail.com  
 - GitHub: https://github.com/mimoklef  
 
 ---
